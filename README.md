@@ -4,7 +4,7 @@
 
 ### MongoDB:
 
-To importing into MongoDB, use:
+To import into MongoDB, use:
 
 ```bash
 mongoimport --jsonArray --db database --collection collection --type json --file argentina.json
@@ -12,7 +12,7 @@ mongoimport --jsonArray --db database --collection collection --type json --file
 
 ### RethinkDB:
 
-To importing into RethinkDB, use:
+To import into RethinkDB, use:
 
 ```bash
 rethinkdb import -f argentina.json --table argentina.provinces
