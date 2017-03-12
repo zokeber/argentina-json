@@ -108,7 +108,6 @@
             "Bragado",
             "Brandsen",
             "Burzaco",
-            "Carapachay",
             "Caseros",
             "Castelar",
             "Churruca",
@@ -185,7 +184,6 @@
             "Gerli",
             "Glew",
             "Gonzalez Catan",
-            "Gral. Lamadrid",
             "Grand Bourg",
             "Gregorio de Laferrere",
             "Guillermo Enrique Hudson",
@@ -426,7 +424,7 @@
             "Zanjitas"
         ]
     },
-   {
+    {
         "iso_31662": "AR-E",
         "provincia": "Entre Ríos",
         "capital": "Paraná",
